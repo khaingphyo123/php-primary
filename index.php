@@ -14,5 +14,8 @@ include 'include/header.php' ?>
     echo "<h1>My name is: $name </h1>";
     ?>
     <button type="button" class="btn btn-dark">Click Me</button>
+    <button type="button" class="btn btn-primary">Click Me</button>
+    <button type="button" class="btn btn-danger">Click Me</button>
+    <br/>
     <?php require 'include/footer.php' ?>
     
